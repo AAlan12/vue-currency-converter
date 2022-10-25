@@ -1,24 +1,25 @@
-# converter
+<!-- <div align="center" >
+  <img src="https://github.com/AAlan12/alura-tracker/blob/main/src/assets/img/tracker-layout.PNG?raw=true"/>
+</div> -->
 
-## Project setup
-```
-npm install
-```
+# vue-currency-converter
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+App para converção de moedas
 
-### Compiles and minifies for production
-```
-npm run build
-```
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | vue-currency-converter
+| :label: Tecnologias | Vue
+| :rocket: URL         | https://vue-currency-converter-ivory.vercel.app/
+| :fire: Desafio     | https://vercel.com/aalan12/vue-currency-converter
 
-### Lints and fixes files
-```
-npm run lint
-```
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+<!-- ![](https://github.com/AAlan12/alura-tracker/blob/main/src/assets/img/tracker-layout-dark.PNG?raw=true#vitrinedev) -->
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Detalhes do projeto
+
+### Tecnologias e ferramentas
+
+- Vue 3
+
+
