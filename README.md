@@ -1,5 +1,5 @@
 <!-- <div align="center" >
-  <img src="https://github.com/AAlan12/alura-tracker/blob/main/src/assets/img/tracker-layout.PNG?raw=true"/>
+  <img src="https://github.com/AAlan12/vue-currency-converter/blob/main/src/assets/vitdev/tumb1.PNG?raw=true"/>
 </div> -->
 
 # vue-currency-converter
@@ -14,7 +14,7 @@ App para converção de moedas
 | :fire: Desafio     | https://vercel.com/aalan12/vue-currency-converter
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-<!-- ![](https://github.com/AAlan12/alura-tracker/blob/main/src/assets/img/tracker-layout-dark.PNG?raw=true#vitrinedev) -->
+<!-- ![](https://github.com/AAlan12/vue-currency-converter/blob/main/src/assets/vitdev/tumb2.PNG?raw=true#vitrinedev) -->
 
 ## Detalhes do projeto
 
